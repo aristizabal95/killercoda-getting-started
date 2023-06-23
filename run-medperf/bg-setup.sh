@@ -1,4 +1,5 @@
 sleep 15
+git clone https://github.com/mlcommons/medperf
 cd medperf/server
 ls
 pip install -r requirements.txt
