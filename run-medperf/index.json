@@ -1,0 +1,18 @@
+{
+    "title": "Medperf Benchmark Execution",
+    "description": "It's time to run your first benchmark on private data with MedPerf",
+    "details": {
+        "intro": {
+            "text": "intro.md",
+            "foreground": "setup.sh",
+            "background": "bg-setup.sh"
+        },
+        "steps": [{
+            "title": "Exploring the CLI",
+            "text": "step1/text.md"
+        }]
+    },
+    "backend": {
+        "imageid": "ubuntu"
+    }
+}
